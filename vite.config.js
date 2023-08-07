@@ -1,8 +1,14 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
+import svgr from 'vite-plugin-svgr';
 
 export default defineConfig({
-	plugins: [react()],
+	plugins: [
+		react(),
+		svgr({
+			exclude: ['node_modules', 'build'],
+		}),
+	],
 	build: {
 		outDir: './build',
 		manifest: true,
