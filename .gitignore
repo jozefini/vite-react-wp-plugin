@@ -28,4 +28,3 @@ build
 
 # Env
 .env
-.env.*
