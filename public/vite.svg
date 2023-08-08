@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 180 180">
+  <path fill="#001588" d="M81.5-.5h13l85 84v12l-85 84h-13c-7.86-5.08-10.02-12.08-6.5-21a6680.25 6680.25 0 0 0 68.5-69 6682.25 6682.25 0 0 0-68.5-69c-3.52-8.92-1.36-15.92 6.5-21Z" opacity=".94"/>
+  <path fill="#fd3a1e" d="M33.5 39.5h32c.17 10.34 0 20.67-.5 31a252.78 252.78 0 0 1-31.5 1v-32Z" opacity=".89"/>
+  <path fill="#23ae3e" d="M-.5 73.5h31v32h-31v-32Z" opacity=".96"/>
+  <path fill="#30b9ff" d="M33.5 107.5c10.34-.17 20.67 0 31 .5a252.78 252.78 0 0 1 1 31.5h-32v-32Z" opacity=".89"/>
+</svg>
